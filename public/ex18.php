@@ -112,3 +112,7 @@ echo "Busca por paciente:<br>";
 echo "<pre>";
 print_r($resultado[6]);
 echo "</pre>";
+
+?>
+<br>
+<button><a href="../index.php">Home</a></button>
